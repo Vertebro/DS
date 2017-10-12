@@ -44,6 +44,6 @@ cette carte de ciné!!!!
 2. Modifier le programme clientUDP.py selon le protocole définit (7pts)
 3. Commenter proprement le programme (3pts)
 4. Tester votre programme.
-5. Indiquer le numéro de la carte de ciné : ................ (2pts)
+5. Indiquer le numéro de la carte de ciné : 4158522552 (2pts)
 6. Sauvegarder vos changement en local (2pts)
 7. Partager votre travail sur votre serveur GitHub (2pts)
